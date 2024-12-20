@@ -1,6 +1,6 @@
 # **Обучение Skillfactory**
 ## - Задание 1. Проект 1 (PJ-01)
-- [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/govoridaa/SF/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project-1._Ноутбук-шаблон.ipynb)
+- [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/govoridaa/SF/blob/main/project/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project-1._Ноутбук-шаблон.ipynb)
 
 - [ссылка на DataFrame](https://drive.google.com/file/d/1JoYPvlSYfrnAaFv11U5mNviQx6_-DiOJ/view?usp=sharing)
 ### Организационная информация
