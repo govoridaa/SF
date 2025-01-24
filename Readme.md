@@ -3,7 +3,10 @@
 - [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/govoridaa/SF/blob/main/project/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project-1._Ноутбук-шаблон.ipynb)
 
 - [ссылка на DataFrame](https://drive.google.com/file/d/1JoYPvlSYfrnAaFv11U5mNviQx6_-DiOJ/view?usp=sharing)
-### Организационная информация
+- [Информация о проекте](#info1)
+- [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/govoridaa/SF/blob/main/project/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter/Project_2_Ноутбук_шаблон.ipynb)
+#
+<a name="info1"></a>  ### Организационная информация
 #### Наш проект будет состоять из четырёх частей:
 
 - базовый анализ структуры данных
